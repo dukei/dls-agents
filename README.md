@@ -7,7 +7,7 @@
 - https://colab.research.google.com/github/dukei/dls-agents/blob/main/DLS-project-agents-2_agent.ipynb
 
 Просмотр оценочного датасета с обоснованием оценки от агента
-- https://jumpshare.com/s/WZt6JKjTTWcWZ0PwnxKS
+- https://docs.google.com/spreadsheets/d/1GU24yUTAGVLaB-9-jpuijv3RUB5u_OmhIIuZy7dSdxA/edit?usp=sharing
 
 Таким образом, в этом проекте было сделано следующее: 
 1. мы создали baseline на основе LLM, добились точности 0.45 (на неисправленном датасете)
